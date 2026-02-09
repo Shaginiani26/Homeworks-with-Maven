@@ -1,4 +1,4 @@
-package Task1;
+package Homework.January.Task1;
 
 import net.datafaker.Faker;
 

@@ -1,6 +1,4 @@
-package Task8;
-
-import net.datafaker.Faker;
+package Homework.January.Task8;
 
 public class Address {
 
